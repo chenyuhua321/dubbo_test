@@ -13,4 +13,4 @@ dubbo test
 
    
 
-![image-20200510204840794](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20200510204840794.png)
+![image-20200510204840794](https://gitee.com/chenyuhua321/dubbo_test/raw/master/img/image-20200510213359702.png)
